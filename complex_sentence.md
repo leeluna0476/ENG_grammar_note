@@ -9,8 +9,7 @@ A dependent clause may be a noun, adjective, or adverb clause.
 how     what        when    which       who     whose
 that    whatever    where   whichever   whoever why
 ```
-
-![](pics/noun_clause_diagram.png)
+<img src="pics/noun_clause_diagram.png" width="500"/>
 
 - I noticed [that you closed the door.]
 
@@ -19,7 +18,7 @@ that    whatever    where   whichever   whoever why
 ```
 who whom    whose   which   that
 ```
-![](pics/adjective_clause_diagram.png)
+<img src="pics/adjective_clause_diagram.png" width="500"/>
 
 ## Adverb clause
 **Subordinating conjunctions that introduce adverb clauses:**
@@ -29,5 +28,4 @@ although    because     since   unless  where
 as          before      so that until   wherever
 as if       if          than    when    while
 ```
-
-![](pics/adverb_clause_diagram.png)
+<img src="pics/adverb_clause_diagram.png" width="500"/>
