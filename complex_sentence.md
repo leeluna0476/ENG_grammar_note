@@ -10,7 +10,7 @@ how     what        when    which       who     whose
 that    whatever    where   whichever   whoever why
 ```
 
-![](pics/noun\ clause\ diagram.png)
+![](pics/noun_clause_diagram.png)
 
 - I noticed [that you closed the door.]
 
@@ -19,7 +19,7 @@ that    whatever    where   whichever   whoever why
 ```
 who whom    whose   which   that
 ```
-![](pics/adjective\ clause\ diagram.png)
+![](pics/adjective_clause_diagram.png)
 
 ## Adverb clause
 **Subordinating conjunctions that introduce adverb clauses:**
@@ -30,4 +30,4 @@ as          before      so that until   wherever
 as if       if          than    when    while
 ```
 
-![](pics/adverb\ clause\ diagram.png)
+![](pics/adverb_clause_diagram.png)
